@@ -1,6 +1,6 @@
 # StudyGenius Pro
 
-![imaget](logo.png)
+![logo](https://github.com/andrewvw2001/StudyGenius-Pro/assets/165322742/5d6b44af-5e66-4271-8ae8-ef28b02b38e5)
 
 ## Overview
 
@@ -20,7 +20,9 @@ Our app lets our users:
 - Creating customized educational notes and quizzes offering an engaging learning experience
 - Designing study plans/guides to help arrange studies and make the most out of study time.   
 
-## Oure  
+## Our Mission
+Our mission is to support underprivileged students across the Bay Area by providing them with essential study materials and resources that may not be readily available in underfunded educational institutions, which will making studying less intimidating and more convenient.
+ 
 ## Our Solution
 We developed a cutting-edge application that uses artificial intelligence (AI) to provide interactive study materials and tools, improving the efficacy and efficiency of students' educational experiences. 
 
